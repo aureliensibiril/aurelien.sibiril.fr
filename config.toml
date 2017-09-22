@@ -2,3 +2,26 @@ baseURL = "http://aurelien.sibiril.fr/"
 languageCode = "en-us"
 title = "Aurelien Sibiril"
 theme = "aerial"
+
+[params]
+  name = "Aurelien Sibiril"
+  about = "CTO @ Comet | Live in Paris 🇫🇷"
+  copyright = ""
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "https://twitter.com/asibiril"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/aureliensibiril"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/sibiril/"
