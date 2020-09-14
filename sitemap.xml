@@ -1,26 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://aurelien.sibiril.fr/about/</loc>
+    <loc>https://aurelien.sibiril.fr/about/</loc>
     <lastmod>2017-09-22T14:50:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://aurelien.sibiril.fr/</loc>
-    <lastmod>2017-09-22T14:50:33+02:00</lastmod>
-    <priority>0</priority>
+    <loc>https://aurelien.sibiril.fr/</loc>
   </url>
   
   <url>
-    <loc>http://aurelien.sibiril.fr/categories/</loc>
-    <priority>0</priority>
+    <loc>https://aurelien.sibiril.fr/categories/</loc>
   </url>
   
   <url>
-    <loc>http://aurelien.sibiril.fr/tags/</loc>
-    <priority>0</priority>
+    <loc>https://aurelien.sibiril.fr/tags/</loc>
   </url>
   
 </urlset>

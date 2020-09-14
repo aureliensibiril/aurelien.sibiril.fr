@@ -1,22 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aurelien Sibiril</title>
-    <link>http://aurelien.sibiril.fr/</link>
+    <link>https://aurelien.sibiril.fr/</link>
     <description>Recent content on Aurelien Sibiril</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 22 Sep 2017 14:50:33 +0200</lastBuildDate>
-    
-	<atom:link href="http://aurelien.sibiril.fr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://aurelien.sibiril.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://aurelien.sibiril.fr/about/</link>
+      <link>https://aurelien.sibiril.fr/about/</link>
       <pubDate>Fri, 22 Sep 2017 14:50:33 +0200</pubDate>
       
-      <guid>http://aurelien.sibiril.fr/about/</guid>
+      <guid>https://aurelien.sibiril.fr/about/</guid>
       <description></description>
     </item>
     
